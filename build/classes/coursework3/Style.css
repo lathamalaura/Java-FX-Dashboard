@@ -1,0 +1,13 @@
+.check-box {
+    -fx-font: 12 'MV Boli';
+}
+
+.axis {
+    -fx-font: 10 'MV Boli';
+    -fx-tick-label-font: 10 'MV Boli';
+}
+
+.bar-chart {
+    -fx-font: 12 'MV Boli';
+}
+
